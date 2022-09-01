@@ -6,7 +6,7 @@
 #define TFT_CS        7 // Hallowing显示控制引脚：芯片选择
 #define TFT_RST       10 //显示复位
 #define TFT_DC        6 //显示数据/命令选择
-#define TFT_BACKLIGHT  7 //显示屏背光销
+#define TFT_BACKLIGHT  11 //显示屏背光销
 #define TFT_MOSI  3 //MOSI
 #define TFT_SCLK  2 //SCLK
 
